@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Andrey</h1>
+<h3 align="center">Desenvolvedor Web</h3>
 
-<!--
-**DevAndyx/DevAndyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔥 Apaixonado por transformar ideias em sistemas reais e funcionais.<br>
+  💻 Curioso nato e apaixonado por tecnologia, sempre explorando coisas novas.<br>
+  🚀 Em busca de novos desafios para crescer como desenvolvedor e agregar em projetos reais.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que uso no dia a dia
+
+<div align="center">
+
+  #### 🧠 Linguagens  
+  <img src="https://skillicons.dev/icons?i=html,css,php,py" />
+
+  #### 🔧 Ferramentas & DevOps  
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+</div>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAndyx&show_icons=true&theme=tokyonight&count_private=true"/>
+</p>
