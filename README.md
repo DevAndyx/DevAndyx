@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,php,py" />
 
   #### 🔧 Ferramentas & DevOps  
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
 
 </div>
 
