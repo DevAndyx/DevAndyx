@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/736x/10/d4/97/10d497e350d375fd1bcf173e93097248.jpg" alt="Kaneki bebendo café" />
+<p align="center"><img src="https://pbs.twimg.com/media/B7b3QOwCIAA8ggE.jpg" alt="Kaneki bebendo café" />
 </p>
 <h1 align="center">👋 Olá, eu sou o Andrey</h1>
 <h3 align="center">Desenvolvedor Web</h3>
