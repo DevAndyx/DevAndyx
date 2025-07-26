@@ -16,7 +16,7 @@
 <div align="center">
 
   #### 🧠 Linguagens  
-  <img src="https://skillicons.dev/icons?i=html,css,php,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py" />
 
   #### 🔧 Ferramentas & DevOps  
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
